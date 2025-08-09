@@ -92,43 +92,21 @@ Smooth animations that serve no purpose other than to distract you.
 # Screenshots (Add at least 3)
 ![Screenshot1] <img src="Screenshot 2025-08-09 154437.png">
 Where dreams go to die
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2] <img src="Screenshot 2025-08-09 162341.png">
+Peak procrastination mode
 
-# Diagrams
-cool
-
-For Hardware:
-;(
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+![Screenshot3]<img src="Screenshot 2025-08-09 162333.png">
+Oops, you’re still here
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
+![Components]
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
 ![Final](Add photo of final product here)
 *Explain the final build*
 
-### Project Demo
-inshallah one day
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 A perfect mix of sarcasm, caffeine, and a strong desire to avoid doing real work.
