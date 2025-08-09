@@ -90,9 +90,8 @@ Minimal but modern design.
 Smooth animations that serve no purpose other than to distract you.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
+![Screenshot1] <img src="Screenshot 2025-08-09 154437.png">
+Where dreams go to die
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
