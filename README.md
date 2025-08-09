@@ -100,13 +100,11 @@ Peak procrastination mode
 Oops, you’re still here
 
 # Build Photos
-![Components]
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Components] <img src="Screenshot 2025-08-08 202757.png">
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![Build] <img src="Screenshot 2025-08-08 194652">
 
+![Final] <img src="Screenshot 2025-08-08 211118.png">
 
 ## Team Contributions
 A perfect mix of sarcasm, caffeine, and a strong desire to avoid doing real work.
