@@ -102,7 +102,7 @@ Oops, you’re still here
 # Build Photos
 ![Components] <img src="Screenshot 2025-08-08 202757.png">
 
-![Build] <img src="Screenshot 2025-08-08 194652">
+![Build] <img src="Screenshot 2025-08-08 194652.png">
 
 ![Final] <img src="Screenshot 2025-08-08 211118.png">
 
